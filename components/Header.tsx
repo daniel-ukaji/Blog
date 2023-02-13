@@ -12,7 +12,7 @@ function Header() {
                     width={50}
                     height={50}
                     className="rounded-full"
-                    alt='logo' 
+                    alt='logo'
                 />
             </Link>
             <h1>The PAPAFAM</h1>

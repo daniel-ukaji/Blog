@@ -5,10 +5,10 @@ function Banner() {
     <div className='flex flex-col lg:flex-row lg:space-x-5 justify-between font-bold px10 py5 mb-10'>
         <div>
             <h1 className='text-7xl'>Danny's Daily Blog</h1>
-            <h2 className='mt-5 md:mt-0'>
+            <h2 className='mt-5 md:mt-3'>
                 Welcome to{" "}
                 <span>Every Developers</span>{" "}
-                favourite blog in the Devopshphere
+                favourite blog in the Devosphere
             </h2>
         </div>
 
